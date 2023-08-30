@@ -1,0 +1,23 @@
+.my-card {
+  width: 100%;
+  max-width: 250px
+}
+
+.map-container {
+  width: 100%;
+  height: 500px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  padding: 10px;
+
+}
+.map {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
